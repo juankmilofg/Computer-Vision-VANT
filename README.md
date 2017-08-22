@@ -20,7 +20,7 @@ Anais do XIX ENMEC Encontro Nacional de Modelagem Computacional pp. 978–987.
 
 TestesVant Foi escrito em C++, para poder criar o executavel utiliza cmake com versão minima de 2.8. 
 A implementação utiliza bibliotecas de OpenCV 3.0.0 (Open Source Computer Vision Library) e OpenMP
-(Open Multi−Processing). 
+(Open Multi−Processing).  Ler: Readme.txt
 
 ## Implementação:
 SIFT
