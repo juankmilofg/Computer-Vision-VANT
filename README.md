@@ -22,5 +22,23 @@ TestesVant Foi escrito em C++, para poder criar o executavel utiliza cmake com v
 A implementação utiliza bibliotecas de OpenCV 3.0.0 (Open Source Computer Vision Library) e OpenMP
 (Open Multi−Processing). 
 
-Implementação:
-SIFT
+## Implementação:
+## SIFT
+
+## ASIFT
+
+## ASIFT-V
+
+## SUFR
+
+## ASURF
+
+## ASURF-V
+
+## ORB
+
+## AKAZE
+
+## AAKAZE
+
+## AAKAZE-V
