@@ -1,7 +1,7 @@
 # Vision-Cumputacional-VANT
 Métodos de Extração de características aplicados ao problema de estimação da posição de um VANT em navegação autônoma com visão computacional
 
-Federal University the Minas Gerais - Brazil 
+Federal University of Minas Gerais - Brazil 
 LITC - Computational Intelligence and Technology Laboratory. http://litc.cpdee.ufmg.br. 
 Code developed by: 
 Juan Camilo Fonseca Galindo - juankmilofg@ufmg.br
