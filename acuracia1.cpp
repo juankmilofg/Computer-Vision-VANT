@@ -1,3 +1,10 @@
+/*
+Federal University of Minas Gerais - Brazil LITC
+Computational Intelligence and Technology Laboratory. 
+http://litc.cpdee.ufmg.br. 
+Code developed by: 
+Juan Camilo Fonseca Galindo - juankmilofg@ufmg.br
+*/
 
 #include <opencv2/opencv.hpp>
 #include "opencv2/core/core.hpp"
