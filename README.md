@@ -1,10 +1,13 @@
 # Vision-Cumputacional-VANT
-Métodos de Extração de características aplicados ao problema de estimação da posição de um VANT em navegação autônoma com visão computacional
+
+Characteristic extraction methods applied to the problem of estimation of the position of UAV for navigation system with computer vision
 
 Federal University of Minas Gerais - Brazil 
 LITC - Computational Intelligence and Technology Laboratory. http://litc.cpdee.ufmg.br. 
 Code developed by: 
 Juan Camilo Fonseca Galindo - juankmilofg@ufmg.br
+
+## bibliographic Reference
 
 Estudo de Métodos de Extração de Características Aplicados ao Problema da Estimação da Posição de um 
 Vant em Navegação Autônoma com Visão Computacional - Dissertação de Mestrado - 2016
@@ -23,6 +26,7 @@ A implementação utiliza bibliotecas de OpenCV 3.0.0 (Open Source Computer Visi
 (Open Multi−Processing).  Ler: Readme.txt
 
 ## Implementação:
+
 SIFT
 
 ASIFT
