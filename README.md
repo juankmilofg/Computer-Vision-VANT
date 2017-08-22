@@ -11,7 +11,7 @@ TestesVant was written in C ++, created the executable using cmake with minimum 
 The implementation uses OpenCV 3.0.0 (Open Source Computer Vision Library) and OpenMP
 (Open Multi-Processing) libraries. Read: Readme.txt
 
-## bibliographic Reference
+## Bibliographic Reference
 
 Estudo de Métodos de Extração de Características Aplicados ao Problema da Estimação da Posição de um 
 Vant em Navegação Autônoma com Visão Computacional - Master's thesis - 2016
