@@ -1,10 +1,10 @@
-Universidade Federal de Minas Gerais - Brazil 
+Federal University of Minas Gerais - Brazil
 LITC - Computational Intelligence and Technology Laboratory. http://litc.cpdee.ufmg.br. 
 Code developed by: 
 Juan Camilo Fonseca Galindo - juankmilofg@ufmg.br
 
 Estudo de Métodos de Extração de Características Aplicados ao Problema da Estimação da Posição de um 
-Vant em Navegação Autônoma com Visão Computacional - Dissertação de Mestrado - 2016
+Vant em Navegação Autônoma com Visão Computacional - Master's thesis - 2016
 https://www.ppgee.ufmg.br/defesas/1343M.PDF
 
 Fonseca-Galindo, J. C. and Lemos, A. P. (2016). Proposta de um método de extração de caracterı́sticas 
@@ -15,11 +15,12 @@ Fonseca-Galindo, J. C., Lemos, A. P. and Shiguemori E. H. (2016). Novo extrator 
 aplicado à estimação da posição de um VANT em navegação autonoma com visão computacional,
 Anais do XIX ENMEC Encontro Nacional de Modelagem Computacional pp. 978–987.
 
-TestesVant Foi escrito em C++, para poder criar o executavel utiliza cmake com versão minima de 2.8. 
-A implementação utiliza bibliotecas de OpenCV 3.0.0 (Open Source Computer Vision Library) e OpenMP
-(Open Multi−Processing). 
+TestesVant was written in C ++, created the executable using cmake with minimum version of 2.8.
+The implementation uses OpenCV 3.0.0 (Open Source Computer Vision Library) and OpenMP
+(Open Multi-Processing) libraries. Read: Readme.txt
 
-Para executar no Sistema Operativo Linux/Unix:
+
+For Linux/Unix systems do the following:
 
 cmake .
 make
