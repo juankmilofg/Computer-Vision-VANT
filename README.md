@@ -23,22 +23,22 @@ A implementação utiliza bibliotecas de OpenCV 3.0.0 (Open Source Computer Visi
 (Open Multi−Processing). 
 
 ## Implementação:
-## SIFT
+SIFT
 
-## ASIFT
+ASIFT
 
-## ASIFT-V
+ASIFT-V
 
-## SUFR
+SUFR
 
-## ASURF
+ASURF
 
-## ASURF-V
+ASURF-V
 
-## ORB
+ORB
 
-## AKAZE
+AKAZE
 
-## AAKAZE
+AAKAZE
 
-## AAKAZE-V
+AAKAZE-V
