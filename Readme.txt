@@ -10,7 +10,6 @@ TestesVant was written in C ++, created the executable using cmake with minimum 
 The implementation uses OpenCV 3.0.0 (Open Source Computer Vision Library) and OpenMP
 (Open Multi-Processing) libraries. Read: Readme.txt
 
-
 For Linux/Unix systems do the following:
 
 cmake .
